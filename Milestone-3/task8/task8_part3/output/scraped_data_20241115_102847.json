@@ -1,0 +1,486 @@
+[
+    {
+        "product name": "Asus VivoBook X441NA-GA190 Chocolate Black",
+        "product price": "295.99"
+    },
+    {
+        "product name": "Prestigio SmartBook 133S Dark Grey",
+        "product price": "299"
+    },
+    {
+        "product name": "Prestigio SmartBook 133S Gold",
+        "product price": "299"
+    },
+    {
+        "product name": "Aspire E1-510",
+        "product price": "306.99"
+    },
+    {
+        "product name": "Lenovo V110-15IAP",
+        "product price": "321.94"
+    },
+    {
+        "product name": "Lenovo V110-15IAP",
+        "product price": "356.49"
+    },
+    {
+        "product name": "Hewlett Packard 250 G6 Dark Ash Silver",
+        "product price": "364.46"
+    },
+    {
+        "product name": "Acer Aspire 3 A315-31 Black",
+        "product price": "372.7"
+    },
+    {
+        "product name": "Acer Aspire A315-31-C33J Black",
+        "product price": "379.94"
+    },
+    {
+        "product name": "Acer Aspire ES1-572 Black",
+        "product price": "379.95"
+    },
+    {
+        "product name": "Acer Aspire 3 A315-31 Black",
+        "product price": "391.48"
+    },
+    {
+        "product name": "Acer Aspire 3 A315-21",
+        "product price": "393.88"
+    },
+    {
+        "product name": "Asus VivoBook Max",
+        "product price": "399"
+    },
+    {
+        "product name": "Asus VivoBook E502NA-GO022T Dark Blue",
+        "product price": "399.99"
+    },
+    {
+        "product name": "Lenovo ThinkPad E31-80",
+        "product price": "404.23"
+    },
+    {
+        "product name": "Acer Aspire 3 A315-31 Black",
+        "product price": "408.98"
+    },
+    {
+        "product name": "Lenovo V110-15ISK",
+        "product price": "409.63"
+    },
+    {
+        "product name": "Acer Aspire ES1-732 Black",
+        "product price": "410.46"
+    },
+    {
+        "product name": "Asus VivoBook 15 X540NA-GQ026T Chocolate Black",
+        "product price": "410.66"
+    },
+    {
+        "product name": "Packard 255 G2",
+        "product price": "416.99"
+    },
+    {
+        "product name": "Asus EeeBook R416NA-FA014T",
+        "product price": "433.3"
+    },
+    {
+        "product name": "Acer Aspire 3 A315-51",
+        "product price": "436.29"
+    },
+    {
+        "product name": "Acer Aspire ES1-572 Black",
+        "product price": "436.29"
+    },
+    {
+        "product name": "Acer Extensa 15 (2540) Black",
+        "product price": "439.73"
+    },
+    {
+        "product name": "Acer Aspire ES1-572 Black",
+        "product price": "454.62"
+    },
+    {
+        "product name": "Lenovo V110-15ISK",
+        "product price": "454.73"
+    },
+    {
+        "product name": "Acer Aspire A315-51-33TG",
+        "product price": "457.38"
+    },
+    {
+        "product name": "Lenovo V110-15IKB",
+        "product price": "465.95"
+    },
+    {
+        "product name": "Asus VivoBook 15 X540UA-DM260 Chocolate Black",
+        "product price": "468.56"
+    },
+    {
+        "product name": "Acer Aspire ES1-572 Black",
+        "product price": "469.1"
+    },
+    {
+        "product name": "Lenovo V510 Black",
+        "product price": "484.23"
+    },
+    {
+        "product name": "Acer Aspire ES1-572 Black",
+        "product price": "485.9"
+    },
+    {
+        "product name": "Acer Aspire ES1-572 Black",
+        "product price": "487.8"
+    },
+    {
+        "product name": "Lenovo V510 Black",
+        "product price": "488.64"
+    },
+    {
+        "product name": "Acer Swift 1 SF113-31 Silver",
+        "product price": "488.78"
+    },
+    {
+        "product name": "Dell Vostro 15",
+        "product price": "494.71"
+    },
+    {
+        "product name": "Acer Aspire 3 A315-51 Black",
+        "product price": "497.17"
+    },
+    {
+        "product name": "Dell Vostro 15 (3568) Red",
+        "product price": "498.23"
+    },
+    {
+        "product name": "Lenovo V510 Black",
+        "product price": "520.99"
+    },
+    {
+        "product name": "HP 250 G3",
+        "product price": "564.98"
+    },
+    {
+        "product name": "Acer Spin 5 SP513-51 Black",
+        "product price": "577.99"
+    },
+    {
+        "product name": "HP 350 G1",
+        "product price": "581.99"
+    },
+    {
+        "product name": "Aspire E1-572G",
+        "product price": "609.99"
+    },
+    {
+        "product name": "Pavilion",
+        "product price": "679"
+    },
+    {
+        "product name": "Acer Aspire A515-51-5654",
+        "product price": "679"
+    },
+    {
+        "product name": "Dell Inspiron 15",
+        "product price": "679"
+    },
+    {
+        "product name": "Asus VivoBook S14",
+        "product price": "729"
+    },
+    {
+        "product name": "ProBook",
+        "product price": "739.99"
+    },
+    {
+        "product name": "Inspiron 15",
+        "product price": "745.99"
+    },
+    {
+        "product name": "Asus ROG STRIX GL553VD-DM256",
+        "product price": "799"
+    },
+    {
+        "product name": "Acer Nitro 5 AN515-51",
+        "product price": "809"
+    },
+    {
+        "product name": "Asus ROG STRIX GL553VD-DM256",
+        "product price": "899"
+    },
+    {
+        "product name": "Lenovo ThinkPad L570",
+        "product price": "999"
+    },
+    {
+        "product name": "ThinkPad Yoga",
+        "product price": "1033.99"
+    },
+    {
+        "product name": "Lenovo ThinkPad L460",
+        "product price": "1096.02"
+    },
+    {
+        "product name": "Dell Inspiron 15 (7567) Black",
+        "product price": "1098.42"
+    },
+    {
+        "product name": "MSI GL72M 7RDX",
+        "product price": "1099"
+    },
+    {
+        "product name": "MSI GL72M 7RDX",
+        "product price": "1099"
+    },
+    {
+        "product name": "Asus ROG Strix GL553VD-DM535T",
+        "product price": "1101.83"
+    },
+    {
+        "product name": "Dell Latitude 5280",
+        "product price": "1102.66"
+    },
+    {
+        "product name": "Dell Latitude 5480",
+        "product price": "1110.14"
+    },
+    {
+        "product name": "Lenovo Legion Y520-15IKBM",
+        "product price": "1112.91"
+    },
+    {
+        "product name": "Toshiba Portege Z30-C-16J Grey",
+        "product price": "1114.55"
+    },
+    {
+        "product name": "Acer Predator Helios 300 (PH317-51)",
+        "product price": "1123.87"
+    },
+    {
+        "product name": "Acer Aspire 7 A715-71G",
+        "product price": "1123.87"
+    },
+    {
+        "product name": "Dell Inspiron 17 2in1 (7779) Silver",
+        "product price": "1124.2"
+    },
+    {
+        "product name": "Dell Latitude 5480",
+        "product price": "1133.82"
+    },
+    {
+        "product name": "Lenovo Legion Y520",
+        "product price": "1133.91"
+    },
+    {
+        "product name": "Lenovo Legion Y520",
+        "product price": "1139.54"
+    },
+    {
+        "product name": "Asus AsusPro Advanced BU401LA-FA271G Dark Grey",
+        "product price": "1140.62"
+    },
+    {
+        "product name": "Acer Nitro 5 AN515-51",
+        "product price": "1143.4"
+    },
+    {
+        "product name": "Dell Latitude 5480",
+        "product price": "1144.2"
+    },
+    {
+        "product name": "Dell Inspiron 15 (7567) Black",
+        "product price": "1144.4"
+    },
+    {
+        "product name": "Dell Latitude 5580",
+        "product price": "1149"
+    },
+    {
+        "product name": "Lenovo Legion Y520-15IKBM",
+        "product price": "1149"
+    },
+    {
+        "product name": "MSI GP62M 7RDX Leopard",
+        "product price": "1149.73"
+    },
+    {
+        "product name": "Lenovo Yoga 720 Grey",
+        "product price": "1154.04"
+    },
+    {
+        "product name": "Toshiba Portege Z30-C-16L Grey",
+        "product price": "1170.1"
+    },
+    {
+        "product name": "Acer TravelMate P645-S-511A Black",
+        "product price": "1178.19"
+    },
+    {
+        "product name": "Dell Latitude 5580",
+        "product price": "1178.99"
+    },
+    {
+        "product name": "ThinkPad T540p",
+        "product price": "1179"
+    },
+    {
+        "product name": "MSI GS63 7RD Stealth",
+        "product price": "1187.88"
+    },
+    {
+        "product name": "Dell Latitude 5480",
+        "product price": "1187.98"
+    },
+    {
+        "product name": "Acer Predator Helios 300 (PH317-51)",
+        "product price": "1199"
+    },
+    {
+        "product name": "MSI GL62M 7REX",
+        "product price": "1199"
+    },
+    {
+        "product name": "MSI GL62M 7REX2",
+        "product price": "1199.73"
+    },
+    {
+        "product name": "Lenovo Yoga 910 Grey",
+        "product price": "1203.41"
+    },
+    {
+        "product name": "Toshiba Portege X30-D-10J Black/Blue",
+        "product price": "1212.16"
+    },
+    {
+        "product name": "Lenovo IdeaPad Miix 510 Platinum Silver",
+        "product price": "1221.58"
+    },
+    {
+        "product name": "Acer Predator Helios 300 (PH317-51)",
+        "product price": "1223.99"
+    },
+    {
+        "product name": "ThinkPad Yoga",
+        "product price": "1235.49"
+    },
+    {
+        "product name": "Asus VivoBook Pro 15 N580VN-FI006T Gold Metal",
+        "product price": "1238.37"
+    },
+    {
+        "product name": "Dell Latitude 5480",
+        "product price": "1239.2"
+    },
+    {
+        "product name": "Asus ZenBook UX530UX-FY040T Blue",
+        "product price": "1244.99"
+    },
+    {
+        "product name": "ThinkPad X230",
+        "product price": "1259"
+    },
+    {
+        "product name": "Asus ROG Strix GL753VE-GC096T",
+        "product price": "1260.13"
+    },
+    {
+        "product name": "Apple MacBook Air 13\"",
+        "product price": "1271.06"
+    },
+    {
+        "product name": "Dell Latitude 5480",
+        "product price": "1273.11"
+    },
+    {
+        "product name": "Hewlett Packard Spectre 13-v106na Dark Ash Silver",
+        "product price": "1281.99"
+    },
+    {
+        "product name": "Dell XPS 13",
+        "product price": "1294.74"
+    },
+    {
+        "product name": "Toshiba Portege Z30-C-16K Grey",
+        "product price": "1299"
+    },
+    {
+        "product name": "MSI GL62VR 7RFX",
+        "product price": "1299"
+    },
+    {
+        "product name": "Dell Latitude 5480",
+        "product price": "1310.39"
+    },
+    {
+        "product name": "Dell Latitude 5480",
+        "product price": "1311.99"
+    },
+    {
+        "product name": "ThinkPad X240",
+        "product price": "1326.83"
+    },
+    {
+        "product name": "Hewlett Packard ProBook 640 G3",
+        "product price": "1333"
+    },
+    {
+        "product name": "Apple MacBook Pro 13\" Space Gray",
+        "product price": "1337.28"
+    },
+    {
+        "product name": "Dell Latitude 5580",
+        "product price": "1338.37"
+    },
+    {
+        "product name": "Dell Latitude 5480",
+        "product price": "1341.22"
+    },
+    {
+        "product name": "Dell Latitude 5580",
+        "product price": "1347.78"
+    },
+    {
+        "product name": "Apple MacBook Air 13\"",
+        "product price": "1349.23"
+    },
+    {
+        "product name": "Lenovo ThinkPad T470",
+        "product price": "1362.24"
+    },
+    {
+        "product name": "Lenovo ThinkPad Yoga 370 Black",
+        "product price": "1366.32"
+    },
+    {
+        "product name": "Toshiba Portege X20W-D-10V Black/Blue",
+        "product price": "1381.13"
+    },
+    {
+        "product name": "Asus ASUSPRO B9440UA-GV0279R Gray",
+        "product price": "1399"
+    },
+    {
+        "product name": "Lenovo Legion Y720",
+        "product price": "1399"
+    },
+    {
+        "product name": "Asus ROG Strix GL702VM-GC146T",
+        "product price": "1769"
+    },
+    {
+        "product name": "Asus ROG Strix GL702ZC-GC154T",
+        "product price": "1769"
+    },
+    {
+        "product name": "Asus ROG Strix GL702ZC-GC209T",
+        "product price": "1799"
+    },
+    {
+        "product name": "Asus ROG Strix SCAR Edition GL503VM-E",
+        "product price": ""
+    },
+    {
+        "product name": "Asus ROG Strix SCAR Edition GL503VM-ED115T",
+        "product price": "null"
+    }
+]

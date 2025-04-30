@@ -1,0 +1,12 @@
+streamlit
+streamlit-tags
+requests
+beautifulsoup4
+pandas
+lxml
+markdownify
+selenium
+pydantic
+google-generativeai
+openpyxl
+xlsxwriter

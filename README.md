@@ -57,23 +57,6 @@ This project was built during my **Infosys Springboard Internship**, where I foc
 - **Tools**: VS Code, GitHub, Postman (for testing)
 - **Export Formats**: CSV, JSON, XML
 
----
-
-## 🗂️ Project Structure
-
-Universal_Web_Scrapper/
-├── milestone-1/ # Static directory website scraper
-│ └── directory_scraper.py
-├── milestone-2/ # Pagination & advanced logic
-│ └── scraper_advanced.py
-├── milestone-3/ # Universal scraper UI with Gemini
-│ ├── app.py # Flask-based UI backend
-│ ├── templates/
-│ │ └── index.html # Gemini Flash based interface
-│ └── scraper.py
-├── output/ # Scraped data files
-├── requirements.txt
-└── README.md # This file
 
 
 ---
